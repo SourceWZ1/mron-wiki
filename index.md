@@ -27,7 +27,7 @@ features:
   - title: MRON Rebirth
     details: |
       Modded Retail MW2019.<br>
-      Brings Rebirth Island, Fortune's Keep, Caldera to MW2019.<br><br>
+      Brings Rebirth Island, Fortune's Keep, Caldera to MW2019.<br>
       **System Requirements:**<br>
       OS: Windows 10/11<br>
       GPU: DirectX 12 Ultimate Supported<br>
