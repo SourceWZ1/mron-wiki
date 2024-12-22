@@ -15,9 +15,10 @@ hero:
       link: https://discord.gg/mronwarzone
 
 features:
-  - title: MRON Verdansk |
-    details: MW2019 & Warzone based on April 2020 version.
-Featuring Verdansk Battle Royale, Multiplayer & Modding support
+  - title: MRON Verdansk
+    details: |
+      MW2019 & Warzone based on April 2020 version.
+      Featuring Verdansk Battle Royale, Multiplayer & Modding support.
 No need of Modern Warfare 2019, means it's free.
 System Requirements: 
 OS: Windows 7/8/10/11, Steam Deck, Linux, MacOS (via Wine / Proton)
