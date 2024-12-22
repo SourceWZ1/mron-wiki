@@ -22,7 +22,6 @@ features:
       No need of Modern Warfare 2019, means **it's free**.<br><br>
       System Requirements:<br>
       OS: Windows 7/8/10/11, Steam Deck, Linux, MacOS (via Wine / Proton)<br>
-        <br>
       GPU: Any  
 
   - title: MRON Rebirth
@@ -37,6 +36,6 @@ features:
 
   - title: MRON Cold War & Vanguard
     details: |
-      Bring everything from Warzone (incl. Cold War & Vanguard weapons) to MW2019.<br><br>
+      Bring everything from Warzone (incl. Cold War & Vanguard weapons) to MW2019.<br>
       Available for **Battlenet/Steam**.
 ---
