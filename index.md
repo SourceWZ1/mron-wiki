@@ -31,7 +31,7 @@ features:
       Steam only<br>
       System Requirements:<br>
       OS: Windows 10/11<br>
-      GPU: DirectX 12 Ultimate Supported (NVIDIA GeForce GTX 1650 and above, any AMD Radeon RX).<br>
+      GPU: DirectX 12 Ultimate Supported (NVIDIA GeForce GTX 1650 and above, any AMD Radeon).<br>
       
 
   - title: MRON Cold War & Vanguard
