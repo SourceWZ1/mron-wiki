@@ -17,25 +17,24 @@ hero:
 features:
   - title: MRON Verdansk
     details: |
-      MW2019 & Warzone based on April 2020 version.
-      Featuring Verdansk Battle Royale, Multiplayer & Modding support.
-      No need of Modern Warfare 2019, means `it's free`.
-      System Requirements:
-      OS: Windows 7/8/10/11, Steam Deck, Linux, MacOS (via Wine / Proton)
-      GPU: Any
+      MW2019 & Warzone based on April 2020 version.<br>
+      Featuring Verdansk Battle Royale, Multiplayer & Modding support.<br>
+      No need of Modern Warfare 2019, means `it's free`.<br><br>
+      **System Requirements:**<br>
+      OS: Windows 7/8/10/11, Steam Deck, Linux, MacOS (via Wine / Proton)<br>
+      GPU: Any  
 
   - title: MRON Rebirth
     details: |
-      Modded Retail MW2019.
-      Brings Rebirth Island, Fortune's Keep, Caldera to MW2019.
-      System Requirements:
-      OS: Windows 10/11
-      GPU: DirectX 12 Ultimate Supported (NVIDIA GeForce GTX 1650 and above, any AMD Radeon RX).
+      Modded Retail MW2019.<br>
+      Brings Rebirth Island, Fortune's Keep, Caldera to MW2019.<br><br>
+      **System Requirements:**<br>
+      OS: Windows 10/11<br>
+      GPU: DirectX 12 Ultimate Supported (NVIDIA GeForce GTX 1650 and above, any AMD Radeon RX).<br>
       `Steam only`
 
   - title: MRON Cold War & Vanguard
     details: |
-      Bring everything from Warzone (incl. Cold War & Vanguard weapons) to MW2019.
+      Bring everything from Warzone (incl. Cold War & Vanguard weapons) to MW2019.<br><br>
       Available for `Battlenet/Steam`.
-
 ---
