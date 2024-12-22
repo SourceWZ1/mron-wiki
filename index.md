@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "MRON"
   text: "User-friendly wiki"
-  tagline: "An open-source Warzone 1 revival project"
+  tagline: "An open-source Warzone 1 revival project" 
   actions:
     - theme: brand
       text: Open wiki
@@ -12,7 +12,7 @@ hero:
     - theme: alt
       text: Return to the website
       link: https://discord.gg/mronwarzone
-
+//g
 features:
   - title: MRON Verdansk
     details: |
