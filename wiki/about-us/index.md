@@ -14,11 +14,11 @@ MRON is a free, non-profit project, a try to return the old Warzone experience (
 We have two main things:
 
 ## MRON Verdansk
-aka MRON Mod, Cracked MW2019, Donetsk, 1.20
+aka MRON Mod, Cracked MW2019, 1.20
 
 An [open source](https://github.com/Ma3axucTKa/MRON-Mod) project based on old Warzone version from April 2020.
  Featuring Verdansk map, multiplayer, modding support.
-- Free, means you don't need to have MW2019.}
+- Free, means you don't need to have MW2019.
 - Easy to install
 - Does NOT connect to Activision servers. Everything runs locally.
 When you start a match, you host it for yourself, means not MRON neither Activision are
